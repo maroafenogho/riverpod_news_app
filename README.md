@@ -1,16 +1,15 @@
-# riverpod_news_app
+# Riverpod News
 
-A new Flutter project.
+This is a tutorial project built with flutter 3.7.0.
+
+The app would give you a good understanding of the following:
+
+- Riverpod basics (the little parts you need to build an app with riverpod)
+- Abstraction
+- API integration and more
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To use the app, clone the repo, create your developer API key on the guardian news site <a href="https://open-platform.theguardian.com/access/">here</a>, navigate to <strong>app_utils.dart</strong> and replace <i>your_key</i> with your API key. Run the app on your emulator or physical device and watch the magic happen.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Happy coding. 🥳
